@@ -7,4 +7,13 @@ domain: https://blog.beauwilliams.dev
 ---
 
 
-Hello World
+# Hello World
+
+My name is beau
+
+
+welcome to my blog
+
+```lua
+print('just made a new change..')
+```
